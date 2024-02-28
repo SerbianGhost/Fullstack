@@ -1,6 +1,5 @@
 import React from 'react';
-import Layout from './Layout.tsx';
-import logo from './logo.svg';
+import Layout from '../components/common/layout/Layout.tsx';
 import './App.css';
 
 function App() {
